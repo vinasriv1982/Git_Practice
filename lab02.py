@@ -6,6 +6,8 @@ Run:
   python lab02.py
 """
 
+print("github test")
+
 from __future__ import annotations
 
 
