@@ -7,6 +7,7 @@ Run:
 """
 
 print("Added a new print statement for test")
+print("This is a test in master for calculator")
 
 from __future__ import annotations
 
