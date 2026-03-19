@@ -6,6 +6,8 @@ Run:
   python lab02.py
 """
 
+print("Added a new print statement for test")
+
 from __future__ import annotations
 
 
